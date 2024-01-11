@@ -1,8 +1,6 @@
-# Sentiment-Analysis-App
 # Sentiment Analysis of Klik Indomaret Reviews on Google Play using Support Vector Machine
 
 ## Description
-
 This research focuses on sentiment analysis of user reviews for the "Klik Indomaret" application on Google Play. The study employs text classification using the Support Vector Machine (SVM) algorithm. Furthermore, the author conducts a comparative analysis of SVM kernels, including Linear, Polynomial, Sigmoid, and Radial Basis Function (RBF), to determine the optimal accuracy in text classification. This research using Knowlegde Discovery in Database with the following stage :
 
 ### Data Collection:
